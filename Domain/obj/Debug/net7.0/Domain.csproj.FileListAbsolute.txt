@@ -1,0 +1,12 @@
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll

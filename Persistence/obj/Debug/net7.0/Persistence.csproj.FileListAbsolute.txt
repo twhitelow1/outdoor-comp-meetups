@@ -1,0 +1,15 @@
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
