@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4rSpwrp+haQTi+jsSKh0yUWUXWjhFRrkmvetgrex21OvfyBXUyPW1YPNWBcQrTynrQ3/BcFfulLnANI46uQ+LQ==",
+  "dgSpecHash": "V6KYTytDlLJCBpr5KCWp/LbB2R9kK70O20EG0MIzhRt//XPcOM5Zyc8Te7bBvR3iGqGQKbRUqVpRqaSDTL9uRA==",
   "success": true,
   "projectFilePath": "/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/toddsmac/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",

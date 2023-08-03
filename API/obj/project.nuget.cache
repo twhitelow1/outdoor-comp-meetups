@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Wg1riqlwJpiXfYPXUM9Gw0zQ5QdXz+DOppVtMnIqBl6TN9Dg/tX4qn9pmH7iom5PiQt6iavpew+gODySKgqkGA==",
+  "dgSpecHash": "1eogwqBG9IFMI8Bjv7sHxAOfg9E+d68+/hCmYyaAB9rIXPe0eqMhJ7fInXt3EmqrscfdhkDIjmVeVKu2ilgILw==",
   "success": true,
   "projectFilePath": "/Users/toddsmac/Projects/udemycsharpreact/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/toddsmac/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
