@@ -1,3 +1,5 @@
+using Application.Activities;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -20,6 +22,8 @@ builder.Services.AddCors(opt =>
     policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
   });
 });
+
+builder.Services.AddMediatR(typeof(List.Handler));
 
 var app = builder.Build();
 
