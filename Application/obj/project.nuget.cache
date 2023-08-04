@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "V6KYTytDlLJCBpr5KCWp/LbB2R9kK70O20EG0MIzhRt//XPcOM5Zyc8Te7bBvR3iGqGQKbRUqVpRqaSDTL9uRA==",
+  "dgSpecHash": "cVmqhPn9iDsN2PnxcbELoqDhLpb6T9MaCQTxERcipqPa5UH0Ux9AYkJy23mzjChqc01zT7ukyQ+LLIbUCJ5EIg==",
   "success": true,
   "projectFilePath": "/Users/toddsmac/Projects/udemycsharpreact/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/toddsmac/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/toddsmac/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "/Users/toddsmac/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
