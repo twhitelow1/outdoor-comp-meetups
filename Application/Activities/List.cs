@@ -3,6 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
+
 namespace Application.Activities
 {
   public class List
@@ -13,12 +14,12 @@ namespace Application.Activities
     {
       private readonly DataContext _context;
 
-      public Handler(DataContext context)
+      public Handler(DataContext context, CancellationToken token)
       {
         _context = context;
       }
 
-      public async Task<List<Activity>> Handle(Query request, CancellationToken cancellationToken)
+      public async Task<List<Activity>> Handle(Query request)
       {
         return await _context.Activities.ToListAsync();
       }
