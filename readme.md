@@ -1,6 +1,6 @@
 # Outdoor Competition Meetups
 
-Outdoor Competition Meetups is a web application developed with .NET MVC for the back-end and React for the front-end. This application serves as a platform for creating, managing, and participating in outdoor sporting events. Our aim is to connect event organizers, participants, and spectators in a single, easy-to-use space.
+Outdoor Competition Meetups is a web application developed with .NET Core Web API for the back-end and React for the front-end. This application serves as a platform for creating, managing, and participating in outdoor sporting events. Our aim is to connect event organizers, participants, and spectators in a single, easy-to-use space.
 
 ## Project Structure
 
